@@ -4,8 +4,7 @@ public class TestDriver {
 		ArithmeticNode firstNode;
 		
 		System.out.println("TEST POINT 1");
-		System.out.println("Current string: " + testString1);
-				
+		System.out.println("Current string: " + testString1);	
 		
 		int x = 1, y = 1;
 		int total = 0;
